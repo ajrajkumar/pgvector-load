@@ -1,0 +1,11 @@
+langchain==0.0.353
+PyPDF2
+python-dotenv
+altair
+pgvector
+urllib3==1.26.6
+boto3>=1.28.57
+awscli>=1.29.57
+botocore>=1.31.57
+anthropic
+psycopg
